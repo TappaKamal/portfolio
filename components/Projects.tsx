@@ -42,7 +42,7 @@ const Projects = () => {
       year: "2024",
       description:
         "An AI-powered voice and text translation platform built with Next.js, Tailwind CSS & TypeScript — enabling users to instantly translate and communicate across languages, both spoken and written, with ease",
-      tags: ["React", "Tailwind CSS", "Design", "Responsive"],
+      tags: ["Nextjs", "Tailwind CSS", "Design", "Responsive"],
       liveUrl: "https://true-speak.vercel.app",
       image:
         "https://www.addevice.io/storage/ckeditor/uploads/images/637ba6f15f60e_how.to.create.a.voice.translation.app.1920.1080.1.png",
