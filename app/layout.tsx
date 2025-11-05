@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: "KamalHussain Portfolio | Next.js Developer",
   description:
     "Portfolio of KamalHussain, a Next.js Developer from KL University. Creating smooth and intuitive user interfaces.",
+  icons: {
+    icon: "/Kamal-03-11-2025.jpg",
+  },
 };
 
 export default function RootLayout({
